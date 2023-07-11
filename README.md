@@ -1,4 +1,4 @@
-![My Logo](https://github.com/nadamogahed/nadamogahed/blob/main/logo.png)
+<img src="[image.jpg](https://github.com/nadamogahed/nadamogahed/blob/main/logo.png)" alt="My Logo" width="300" height="200">
 ### Hi there 👋
 <h1> NADA MOGAHED</br> A DATA ENGINEER </h1>
 <!--
