@@ -1,4 +1,4 @@
-![My Logo]([https://i.imgur.com/abcd.jpg](https://github.com/nadamogahed/nadamogahed/blob/main/logo.png))
+![My Logo](https://github.com/nadamogahed/nadamogahed/blob/main/logo.png)
 ### Hi there 👋
 <h1> NADA MOGAHED</br> A DATA ENGINEER </h1>
 <!--
