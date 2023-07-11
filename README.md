@@ -1,4 +1,4 @@
-<img src="https://github.com/nadamogahed/nadamogahed/blob/main/logo.png" alt="My Logo" width="100%" height="200">
+<img src="https://github.com/nadamogahed/nadamogahed/blob/main/logo.png" alt="My Logo" width="100%" height="250">
 ### Hi there 👋
 <h1> NADA MOGAHED</br> A DATA ENGINEER </h1>
 <!--
