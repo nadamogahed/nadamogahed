@@ -1,6 +1,6 @@
 
 <img src="https://github.com/nadamogahed/nadamogahed/blob/main/logo.png" alt="My Logo" width="100%" height="200">
-<h1 style="text-align: center;"> NADA MOGAHED</br> A DATA ENGINEER </h1>
+<h1 align="center"> NADA MOGAHED</br> A DATA ENGINEER </h1>
 <!--
 **nadamogahed/nadamogahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
